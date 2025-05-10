@@ -15,7 +15,7 @@ db_parameters = {
 }
 
 url_list = [
-    "https://stacgoverflow.com",
+    "https://stackoverflow.com",
     "https://www.djangoproject.com",
     "https://realpython.com",
     "https://docs.aiohttp.org",
